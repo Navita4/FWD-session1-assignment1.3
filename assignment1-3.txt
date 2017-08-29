@@ -1,0 +1,21 @@
+Assignment1.3
+// Clone the project from Angular geethub seed
+ steps are as:
+
+1) Install git bash and git cmd
+
+2) First executed the command as :
+
+    git clone https://github.com/angular/quickstart helloProject
+
+3) After that run the command:
+
+    cd helloProject
+
+4) Run the command :
+
+     npm install
+
+5) Run the command:
+
+      npm start
